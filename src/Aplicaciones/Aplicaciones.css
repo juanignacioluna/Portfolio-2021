@@ -1,0 +1,30 @@
+
+.Aplicaciones img{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.Aplicaciones .card-body{
+	text-align: center;
+}
+
+.Aplicaciones h6{
+	display:inline;
+	margin-right: 10px;
+}
+
+.Aplicaciones .bg-light{
+	color: black;
+}
+
+.Aplicaciones .titulo{
+	text-align: center;
+}
+
+button{
+	margin-right: 20px;
+}
+
+.btn-deploy{
+	margin-top: 10px;
+}

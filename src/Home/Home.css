@@ -1,0 +1,65 @@
+
+
+.Home{
+	text-align: center;
+}
+
+.tecnologias{
+	color: white;
+}
+
+.titulo{
+
+	margin-top: 20px;
+
+	margin-bottom: 40px;
+
+}
+
+
+.imgPrincipal{
+
+	margin-bottom: 25px;
+}
+
+.Home img{
+
+	width: 100%;
+
+}
+
+
+#consola {
+	text-align: left;
+	font-family: 'Inconsolata', monospace;
+	height: 335px;
+	width: 100%;
+	background: #222;
+	margin: 0 auto;
+	border: 4px solid lightgray;
+	border-top: 35px solid lightgray;
+	overflow: auto; 
+}
+
+.consola2{
+	min-height: 740px;
+}
+
+.consola-seccion {
+	color: white;
+	padding-left: 5px;
+	font-size: 1.5em;
+	margin-top: 20px;
+	margin-left: 10px;
+	padding-bottom: -5px;
+}
+
+.consola2 .consola-seccion{
+	font-size: 0.8em;
+}
+
+.Home .btn{
+	margin-right: 20px;
+	min-height: 50px;
+}
+

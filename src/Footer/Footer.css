@@ -1,0 +1,40 @@
+
+.Footer button{
+  font-size: 20px;
+}
+
+.Footer {
+  background: #262626;
+  text-align: center;
+  min-height: 100px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-top: 20px;
+}
+
+.Footer span {
+  color: white;
+  font-size: 20px;
+  width: 90%;
+  text-align: center;
+}
+
+.Footer span .fa {
+  color: #E90606;
+  font-size: 18px;
+  animation: pound 0.35s infinite alternate;
+}
+
+@keyframes pound {
+  to {
+    transform: scale(1.1);
+  }
+}
+
+.twitter{
+  background: #55acee;
+}
+
+.linkedin{
+  background: #0082ca;
+}
